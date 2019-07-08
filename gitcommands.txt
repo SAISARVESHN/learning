@@ -1,1 +1,6 @@
 Hi these are some git commands 
+
+1) git clone [url]
+retrieve an entire repository from a hosted location via URLgit clone 
+
+2) 
